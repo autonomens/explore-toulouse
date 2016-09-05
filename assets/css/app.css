@@ -246,7 +246,7 @@
 .map-full {
   position: absolute;
   top: 8.7em;
-  bottom: 5em;
+  bottom: 0;
   width: 100%;
 }
 .map-hidden {
